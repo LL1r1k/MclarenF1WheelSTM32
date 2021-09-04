@@ -1,0 +1,4 @@
+PitLimitPage.cpp:3:1:PitLimitPage::PitLimitPage()	32	static
+PitLimitPage.cpp:11:6:void PitLimitPage::Static()	16	static
+PitLimitPage.cpp:21:6:void PitLimitPage::Update(Telemetry, uint8_t)	16	static
+PitLimitPage.cpp:42:1:PitLimitPage::~PitLimitPage()	24	static

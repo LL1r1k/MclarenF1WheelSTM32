@@ -1,0 +1,6 @@
+OutLapPage.cpp:3:1:OutLapPage::OutLapPage()	32	static
+OutLapPage.cpp:29:6:void OutLapPage::Static(Telemetry)	16	static
+OutLapPage.cpp:56:6:void OutLapPage::StaticOut()	24	static
+OutLapPage.cpp:88:6:void OutLapPage::StaticCool()	24	static
+OutLapPage.cpp:119:6:void OutLapPage::Update(Telemetry, uint8_t)	32	static
+OutLapPage.cpp:255:1:OutLapPage::~OutLapPage()	24	static

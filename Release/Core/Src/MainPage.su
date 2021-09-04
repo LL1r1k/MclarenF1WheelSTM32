@@ -1,0 +1,5 @@
+MainPage.cpp:3:1:MainPage::MainPage(Telemetry*)	48	static
+MainPage.cpp:45:6:void MainPage::Static()	8	static
+MainPage.cpp:71:6:void MainPage::Update(Telemetry, uint8_t)	88	static
+MainPage.cpp:315:1:MainPage::~MainPage()	16	static
+MainPage.cpp:331:6:void MainPage::DrawBar(uint8_t, uint8_t&, uint16_t, uint16_t, uint8_t, uint8_t)	32	static

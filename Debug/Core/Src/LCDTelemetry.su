@@ -1,0 +1,4 @@
+LCDTelemetry.cpp:3:1:LCDTelemetry::LCDTelemetry()	32	static
+LCDTelemetry.cpp:24:6:void LCDTelemetry::Update(Telemetry)	120	static
+LCDTelemetry.cpp:222:1:LCDTelemetry::~LCDTelemetry()	24	static
+LCDTelemetry.cpp:235:9:uint8_t LCDTelemetry::getLasePage()	16	static
